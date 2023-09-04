@@ -1,0 +1,19 @@
+.sd-icon{
+    width: 40px;
+    height: 40px;
+}
+
+.sdclock-icon{
+    width: 40px;
+    height: 40px;
+}
+ 
+.highlight{
+    background-color: rgb(255, 149, 0);
+    color: black;
+}
+
+.highlight1{
+    background-color:black;
+    color: rgb(255, 149, 0);
+}
